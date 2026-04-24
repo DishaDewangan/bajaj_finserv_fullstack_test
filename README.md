@@ -1,5 +1,6 @@
 # BFHL Full Stack Submission
-Made by Disha Dewangan AP23110010433
+Made by Disha Dewangan AP23110010433 (dewangan_disha@srmap.edu.in)
+
 This repository contains:
 
 - `backend/`: Node.js + Express API implementing `POST /bfhl`
